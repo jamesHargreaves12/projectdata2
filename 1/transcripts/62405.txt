@@ -1,0 +1,1 @@
+price after tax equals meal price times 1.2 price paid equals price after tax times 1.1 output price paid

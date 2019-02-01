@@ -1,0 +1,1 @@
+set costs to 0 for each item in the shopping list add to cost item cost map of item end the for loop return cost

@@ -1,0 +1,1 @@
+we take some input string now we start a for loop from the integer i equals 0 until as long as i is less than strictly less than the length of the string over 2 now if the i th character of the strings unequal to the length of the string minus 1 minus i  th character string we return false and thats the end of the for loop and after weve finished the loop we return true

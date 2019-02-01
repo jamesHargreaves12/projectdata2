@@ -1,0 +1,1 @@
+return input string is equal to the reverse of input string

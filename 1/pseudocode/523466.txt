@@ -1,0 +1,3 @@
+meal_price = price_of_meal_pre_tax_without_tip;
+meal_price_plus_tax = meal_price * 1.2;
+final_meal_price = meal_price_plus_tax * 1.1;

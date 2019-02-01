@@ -1,0 +1,1 @@
+if length of string is less than or equal to 1 return true end if variable low equals pop string first variable high it was pop string last if low equals high then return calling self on the string else return false end if

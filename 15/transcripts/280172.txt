@@ -1,0 +1,1 @@
+for i from 0 to the length of number list minus 1 inclusive multiply number list at i by coefficient end for loop return number list

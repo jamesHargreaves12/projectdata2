@@ -1,0 +1,1 @@
+for each i from 1 to 20 inclusive set to print to the empty string if i is a multiple of 3 add fizz to to print if i is a multiple of 5 add buzz to to print if i is neither a multiple of 3 nor multiple of 5 add i to to print print to print end the for loop

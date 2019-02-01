@@ -1,0 +1,1 @@
+set maximum to 0 for each integer in the number list if the integer is greater than maximum set maximum to integer at the end of the function return maximum

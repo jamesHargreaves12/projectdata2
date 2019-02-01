@@ -1,0 +1,1 @@
+the variable s is a string defined the function reversed s which returns the reverse of the string the variable reverse equals the function reverse s if s equals reverse return true if s does not equal reverse return false

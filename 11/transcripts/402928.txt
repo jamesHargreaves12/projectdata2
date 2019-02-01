@@ -1,0 +1,1 @@
+for i is equal to 0 i is less than half of string length increment i if char at position i is not equal to char at position string length minus i return false end of for loop return true

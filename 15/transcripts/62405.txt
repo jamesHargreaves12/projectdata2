@@ -1,0 +1,1 @@
+for i equals 0 to length number list minus 1 number list at i is set equal to number list at i times coefficient end loop

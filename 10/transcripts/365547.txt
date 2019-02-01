@@ -1,0 +1,1 @@
+we take an integer n and now when we return n times n plus 1 divided by 2

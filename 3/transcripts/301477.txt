@@ -1,0 +1,1 @@
+variable total becomes equal to 0 for count equals 1 to twelve total becomes equal to total plus months rainfall count end for return total

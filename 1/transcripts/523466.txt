@@ -1,0 +1,1 @@
+the variable meal price is equal to the price of the meal pre tax without tip the variable meal price plus tax is equal to the variable meal price multiplied by 1.2 the variable final meal price is equal to the variable meal price plus tax multiplied by 1.1

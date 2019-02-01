@@ -1,0 +1,1 @@
+create an accumulator variable and set it to 0 for i is equal to 0 i is less than  months rainfall length increment i accumulator is incremented by months rainfall of i end of for loop return accumulator

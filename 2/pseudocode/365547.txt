@@ -1,0 +1,7 @@
+highest = 0;
+while list.not_empty() {
+	if head(list) > highest {
+		highest = head(list);
+	}
+	list = tail(list);
+}

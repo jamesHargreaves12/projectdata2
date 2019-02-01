@@ -1,0 +1,1 @@
+variable total becomes equal to 0 for count equals 1 to length of shopping list total becomes equal to total plus the cost brackets the shopping list count close brackets close brackets end for return total

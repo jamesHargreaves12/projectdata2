@@ -1,0 +1,1 @@
+set highest to the first item on the list for i is equal to 1 i is less than num list dot length increment i if num list of i is greater than highest return false end of for loop return true

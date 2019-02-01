@@ -1,0 +1,1 @@
+set temp to number list at i set number list at i to number list at j set number list at j to temp

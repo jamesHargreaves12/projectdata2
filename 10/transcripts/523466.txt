@@ -1,0 +1,1 @@
+the variable n is an integer defined the function addition of n which returns n plus addition n minus 1 if n is greater than 1 else 1

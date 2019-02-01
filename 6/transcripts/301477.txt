@@ -1,0 +1,1 @@
+for item is 1 to 20 variable a equals mod item comma 3 equal 0 b equals mod item comma 5 equals 0 if a and b print fizz buzz else if a print fizz else if b print buzz else print item end if end for

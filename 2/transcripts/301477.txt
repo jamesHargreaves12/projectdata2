@@ -1,0 +1,1 @@
+highest becomes equal to 0 while the length of the num list is greater than 0 variable item equals pop num list if item is greater than highest then highest becomes equal to item end if end while return highest

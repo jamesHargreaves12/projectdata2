@@ -1,0 +1,1 @@
+variable result equals empty list count equals 1 to length of number list result count becomes equal to number list count times coefficient end for return result

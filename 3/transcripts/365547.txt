@@ -1,0 +1,1 @@
+take a list of monthly rainfall figures then initialize some double to be the total rainfall then for all values in the list months rainfall you add that value to total and thats the end of the for loop and then you return the total

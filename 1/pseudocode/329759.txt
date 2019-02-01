@@ -1,0 +1,3 @@
+meal_price = meal_price * 1.2;
+meal_price = meal_price * 1.1;
+return meal_price

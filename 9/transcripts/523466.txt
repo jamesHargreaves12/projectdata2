@@ -1,0 +1,1 @@
+define the function factorial n return 1 if n equals 1 or n equals 0 else n multiplied by factorial n minus 1

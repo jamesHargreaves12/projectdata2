@@ -1,0 +1,1 @@
+set sum equal to 0 for each item in shopping list increment sum by item cost map of item end for output sum

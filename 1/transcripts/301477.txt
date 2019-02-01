@@ -1,0 +1,1 @@
+right constant vat equals 0.2 constant tip equals 0.1 and i return meal price times brackets 1 plus vat close brackets times brackets 1 plus tip close brackets

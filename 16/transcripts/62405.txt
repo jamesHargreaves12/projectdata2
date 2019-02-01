@@ -1,0 +1,1 @@
+create list output list for each numb in number list if numb is greater than threshold add numb to output list end loop output output list

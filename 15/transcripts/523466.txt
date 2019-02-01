@@ -1,0 +1,1 @@
+the variable new number list equals all within square brackets i times n for i in number list print new number list

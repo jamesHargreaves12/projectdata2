@@ -1,0 +1,1 @@
+set out to true set start to 0 set end to length of input string minus 1 while start less than end if input string at start does not equal input string at end set output to false end if increased start by 1 decrease end by 1 end while output out

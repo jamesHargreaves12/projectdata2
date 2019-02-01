@@ -1,0 +1,1 @@
+now we do a for loop for i was 1 to 20 if i is divisible by 3 and that is equal to 0 then we print fizz end if statement if statement if its divisible by 5 we print buzz and thats the end of that if statement and then we print a new line and thats the end of the for loop

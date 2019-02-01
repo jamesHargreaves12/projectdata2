@@ -1,0 +1,7 @@
+maximum = 0;
+for integer in number_list {
+	if integer > maximum {
+		maximum = integer;
+	}
+}
+return maximum;

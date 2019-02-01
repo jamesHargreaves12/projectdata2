@@ -1,0 +1,1 @@
+set sum to 0 for each integer in months rainfall add the integer to sum at the end of the function return sum

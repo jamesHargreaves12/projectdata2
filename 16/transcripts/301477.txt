@@ -1,0 +1,1 @@
+variable result equals empty list for count equals 1 to the length of number list if number list count is greater than threshold then push onto result number list count end if end for return result

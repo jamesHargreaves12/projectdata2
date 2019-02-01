@@ -1,0 +1,1 @@
+add number list at j to number list at i subtract number list at i from number list at j add number list at j to number list at i multiply number list at j by minus 1

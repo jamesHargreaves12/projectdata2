@@ -1,0 +1,1 @@
+create a variable end and set it to length of the input list for i in range of n for j in range of 0 to n minus i minus 1 if input list of j is greater than input list of j plus 1 do input list of swap i j input list end the for loop end of for loop return input list

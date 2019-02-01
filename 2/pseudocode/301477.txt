@@ -1,0 +1,8 @@
+highest = 0;
+while length(num_list) > 0 {
+	item = pop(num_list);
+	if item > highest{ 
+		highest = item;
+	}
+}
+return highest;

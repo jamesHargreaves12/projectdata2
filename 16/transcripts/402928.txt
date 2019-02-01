@@ -1,0 +1,1 @@
+create new list of numbers result for item in number list if item is greater than threshold result add item end of for loop return result

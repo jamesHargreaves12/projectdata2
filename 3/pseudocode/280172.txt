@@ -1,0 +1,5 @@
+sum = 0;
+for integer in months_rainfall{
+	sum += integer;
+}
+return sum;

@@ -1,0 +1,1 @@
+for rainfall in months rainfall add rainfall to total rainfall end for return total rainfall

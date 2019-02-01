@@ -1,0 +1,1 @@
+if n is less than 0 or n equals 0 returns 0 end if total becomes equal to 0 count equals 1 to n total becomes equal to total plus count end for return total

@@ -1,0 +1,1 @@
+set total equal to 0 for i equals 0 to 11 increase total by months rainfall at i end loop output total

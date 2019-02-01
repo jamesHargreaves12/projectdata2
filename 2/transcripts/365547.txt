@@ -1,0 +1,1 @@
+so we take a list of integers and we store some integer highest instantiate to 0 and now while our list is not empty we check that the head of the list is bigger than our highest value if so we set the highest value to be head of the list thats the end of the if statement and so the new list is the tail of the list the end of the for loop

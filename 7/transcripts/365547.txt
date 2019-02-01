@@ -1,0 +1,1 @@
+so we take some integer n then if n equals 1 then we return falls if n equals 2  we return true else we start a for loop from i to the square root of n and then inside the for loop we check that if the remainder of n an r equals 0 we return false and else we do nothing and then thats the end of the end of the for loop and then if nothing else happens then we return true
