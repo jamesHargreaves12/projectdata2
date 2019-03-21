@@ -1,0 +1,1 @@
+VARIABLE_2 is NUMBER for each VARIABLE_3 in VARIABLE_0 VARIABLE_2 increment by VARIABLE_1 of VARIABLE_3 end of for loop return VARIABLE_2

@@ -1,0 +1,1 @@
+return VARIABLE_0 times NUMBER

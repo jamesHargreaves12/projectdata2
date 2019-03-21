@@ -1,0 +1,7 @@
+if length(p,r) == 1{
+	return(p);
+}
+else{
+	midpoint = round_down(length(p,r)/2);
+	return merge_sort(p,midpoint,sort(midpoint+1,r));
+}

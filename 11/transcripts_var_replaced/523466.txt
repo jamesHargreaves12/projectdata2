@@ -1,0 +1,1 @@
+the variable VARIABLE_0 equals the function VARIABLE_1 VARIABLE_2 if VARIABLE_2 equals VARIABLE_0 return true if VARIABLE_2 does not equal VARIABLE_0 return false

@@ -1,0 +1,6 @@
+months rainfall
+accumulator
+i
+*********
+length
+*********

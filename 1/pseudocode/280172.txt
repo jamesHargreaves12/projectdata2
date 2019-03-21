@@ -1,1 +1,1 @@
-return meal_price * 1.2
+return meal_price * 1.2;

@@ -1,0 +1,5 @@
+total = 0;
+for count in range(1,length(shopping_list)) {
+	total = total + cost[shopping_list[count]];
+}
+return total;

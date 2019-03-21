@@ -1,0 +1,1 @@
+set VARIABLE_1 to the FUNCTION_CALL_5 on the VARIABLE_2 for VARIABLE_3 is equal to NUMBER VARIABLE_3 is less than VARIABLE_0 dot FUNCTION_CALL_6 increment VARIABLE_3 if VARIABLE_0 of VARIABLE_3 is greater than VARIABLE_1 return false end of for loop return true

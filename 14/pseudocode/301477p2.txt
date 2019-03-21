@@ -1,0 +1,22 @@
+count_list_1 = 1;
+count_list_2 = 1;
+for count in rnage(1,length(l_1) + length(l_2)) {
+	if count_of_l_1 == length(l_1)+1 {
+		result[count] = l_1[count_l_2];
+		count_l_2 ++;
+	}
+	if count_l_2 == length(l2)+1{
+		result[count] = l_1[count_l_1];
+		count_l_1 ++;
+	}
+	if l_1[count_l_1] <= l_2[count_l_2]{
+		result[count] = l_1[count_l_1];
+		count_l_1 ++;
+	}
+	else{
+		result[count] = l_2[count_l_2];
+		count_l_2 ++;	
+	}
+
+}
+return result;

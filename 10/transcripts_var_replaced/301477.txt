@@ -1,0 +1,1 @@
+if VARIABLE_2 is less than NUMBER or VARIABLE_2 equals NUMBER returns NUMBER end if VARIABLE_0 becomes equal to NUMBER VARIABLE_1 equals NUMBER to VARIABLE_2 VARIABLE_0 becomes equal to VARIABLE_0 plus VARIABLE_1 end for return VARIABLE_0

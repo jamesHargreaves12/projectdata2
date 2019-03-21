@@ -1,0 +1,1 @@
+for all VARIABLE_4 in the VARIABLE_1 we multiply that VARIABLE_5 by the coefficient and stored it in the VARIABLE_2 in the VARIABLE_6 and thats the end of the for loop and then we simply return the VARIABLE_0

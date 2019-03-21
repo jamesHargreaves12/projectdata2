@@ -1,0 +1,1 @@
+right constant VARIABLE_1 equals NUMBER constant VARIABLE_2 equals NUMBER and i return VARIABLE_0 times brackets NUMBER plus VARIABLE_1 close brackets times brackets NUMBER plus VARIABLE_2 close brackets

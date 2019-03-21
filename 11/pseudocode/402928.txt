@@ -1,0 +1,6 @@
+for i = 0; i < 1/2*string.length(); i ++;{
+	if string.char_at(i) != string.char_at(string.length()-1) {
+		return false;	
+	}
+}
+return true;

@@ -1,0 +1,11 @@
+results
+right
+left
+*********
+not empty
+first element
+append
+remove first item
+tail
+add all
+*********

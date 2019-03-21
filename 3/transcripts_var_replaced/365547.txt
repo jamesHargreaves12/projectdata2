@@ -1,0 +1,1 @@
+initialize some double to be the VARIABLE_1 then for all VARIABLE_2 in the list VARIABLE_0 you add that VARIABLE_4 to VARIABLE_3 and thats the end of the for loop and then you return the VARIABLE_3

@@ -1,0 +1,1 @@
+create new list of numbers VARIABLE_3 for VARIABLE_4 in number list if VARIABLE_4 is greater than VARIABLE_2 VARIABLE_3 FUNCTION_CALL_6 VARIABLE_4 end of for loop return VARIABLE_3

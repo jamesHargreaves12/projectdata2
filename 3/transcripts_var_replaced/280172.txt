@@ -1,0 +1,1 @@
+set VARIABLE_2 to NUMBER for each VARIABLE_1 in VARIABLE_0 add the VARIABLE_1 to VARIABLE_2 at the end of the function return VARIABLE_2

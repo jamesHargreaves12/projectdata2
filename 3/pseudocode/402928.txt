@@ -1,0 +1,5 @@
+accumulator = 0;
+for i = 0; i < months_rainfall.length(); i ++ ;{
+	accumulator += months_rainfall[i];
+}
+return accumulator;

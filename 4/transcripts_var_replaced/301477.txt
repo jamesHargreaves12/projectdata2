@@ -1,0 +1,1 @@
+variable VARIABLE_1 becomes equal to NUMBER for VARIABLE_2 equals NUMBER to FUNCTION_CALL_6 of VARIABLE_0 VARIABLE_1 becomes equal to VARIABLE_1 plus the VARIABLE_3 brackets the VARIABLE_0 VARIABLE_2 close brackets close brackets end for return VARIABLE_1

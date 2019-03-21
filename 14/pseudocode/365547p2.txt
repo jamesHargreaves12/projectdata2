@@ -1,0 +1,16 @@
+while left.not_empty() and right.not_empty(){
+	if left.first_element() < right.first_element(){
+		results.append(left.first_element());
+		left.remove_first_item();
+	}
+	else{
+		results.append(right.first_element());
+		right = tail(right);
+	}
+}
+while left.not_empty(){
+	results.add_all(left);
+}
+while right.not_empty(){
+	results.add_all(right);
+}

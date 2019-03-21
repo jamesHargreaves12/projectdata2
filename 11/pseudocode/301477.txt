@@ -1,0 +1,11 @@
+if length(string) <= 1{
+	return true;
+}
+low = pop(string,1);
+high = pop(string,-1);
+if low == high{
+	return palindrome(string);
+}
+else{
+	return false;
+}

@@ -1,0 +1,1 @@
+return VARIABLE_0 is equal to the FUNCTION_CALL_2 of VARIABLE_0

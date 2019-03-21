@@ -1,0 +1,14 @@
+count list 1
+count list 2
+count of l 1
+count l 2
+count l 1
+result
+count
+l 1
+l 2
+l2
+*********
+rnage
+length
+*********

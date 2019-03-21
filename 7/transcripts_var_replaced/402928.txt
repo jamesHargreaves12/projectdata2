@@ -1,0 +1,1 @@
+while VARIABLE_0 is less than or equal to the FUNCTION_CALL_3 of VARIABLE_1 and FUNCTION_CALL_4 VARIABLE_1 VARIABLE_0 is not equal to NUMBER increment VARIABLE_0 return VARIABLE_0 is greater than FUNCTION_CALL_3 of VARIABLE_1

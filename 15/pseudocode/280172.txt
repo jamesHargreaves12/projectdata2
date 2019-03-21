@@ -1,0 +1,4 @@
+for i in range(0,length(number_list)-1){
+	number_list[i] *= coefficient;
+}
+return number_list;

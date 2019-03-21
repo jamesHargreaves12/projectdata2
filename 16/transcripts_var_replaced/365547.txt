@@ -1,0 +1,1 @@
+we instantiate a VARIABLE_0 to be empty for all VARIABLE_3 in the VARIABLE_1 we check that the VARIABLE_4 is higher than some VARIABLE_2 if so we add that VARIABLE_4 to the VARIABLE_0 that the end of the for loop and we now return the VARIABLE_0

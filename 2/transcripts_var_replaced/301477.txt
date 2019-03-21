@@ -1,0 +1,1 @@
+VARIABLE_1 becomes equal to NUMBER while the FUNCTION_CALL_4 of the VARIABLE_0 is greater than NUMBER variable VARIABLE_2 equals FUNCTION_CALL_5 VARIABLE_0 if VARIABLE_2 is greater than VARIABLE_1 then VARIABLE_1 becomes equal to VARIABLE_2 end if end while return VARIABLE_1

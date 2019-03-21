@@ -1,0 +1,1 @@
+set VARIABLE_1 to NUMBER for each VARIABLE_2 in the VARIABLE_0 if the VARIABLE_2 is greater than VARIABLE_1 set VARIABLE_1 to VARIABLE_2 at the end of the function return VARIABLE_1

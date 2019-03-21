@@ -1,0 +1,10 @@
+number list
+results
+result
+k
+i
+j
+*********
+new list
+length
+*********

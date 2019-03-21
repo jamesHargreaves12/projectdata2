@@ -1,0 +1,5 @@
+accumulator = 0;
+for item in shopping_list {
+	accumulator += item_cost_map[item];
+}
+return accumulator;

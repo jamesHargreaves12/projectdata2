@@ -1,0 +1,1 @@
+for VARIABLE_2 from NUMBER to the FUNCTION_CALL_5 of VARIABLE_0 minus NUMBER inclusive multiply VARIABLE_0 at VARIABLE_2 by VARIABLE_1 end for loop return VARIABLE_0

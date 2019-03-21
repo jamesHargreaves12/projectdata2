@@ -1,0 +1,4 @@
+while i < square_root(n) and remainder(n,i) != 0{
+	i ++;
+}
+return i > square_root(n);

@@ -1,1 +1,1 @@
-variable n is an integer defined the function is prime n if n equals 2 or n equals 3 return true if n percent 2 equals 0 or n is less than 2 return false for i in range open braket 3 comma int square root n close brackets plus 1 comma 2 close brackets if n percent i equals 0 return false else return true
+if n equals 2 or n equals 3 return true if n percent 2 equals 0 or n is less than 2 return false for i in range open braket 3 comma int square root n close brackets plus 1 comma 2 close brackets if n percent i equals 0 return false else return true

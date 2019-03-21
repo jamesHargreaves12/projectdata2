@@ -1,0 +1,5 @@
+price after tax
+meal price
+price paid
+*********
+*********

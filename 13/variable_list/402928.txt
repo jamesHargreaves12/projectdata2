@@ -1,0 +1,10 @@
+input list
+end
+i
+n
+j
+*********
+length
+range
+swap
+*********

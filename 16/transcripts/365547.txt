@@ -1,1 +1,1 @@
-we take a list of integers and we take a threshold integer now we instantiate a result list to be empty for all values in the input list we check that the number is higher than some threshold if so we add that number to the result list that the end of the for loop and we now return the result list
+we instantiate a result list to be empty for all values in the input list we check that the number is higher than some threshold if so we add that number to the result list that the end of the for loop and we now return the result list

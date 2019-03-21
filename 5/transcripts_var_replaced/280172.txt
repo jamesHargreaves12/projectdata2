@@ -1,0 +1,1 @@
+for each VARIABLE_0 from NUMBER to NUMBER inclusive FUNCTION_CALL_3 the VARIABLE_0

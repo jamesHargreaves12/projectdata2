@@ -1,0 +1,1 @@
+return in brackets VARIABLE_0 multiplied by NUMBER and outside the brackets we multiplied by NUMBER

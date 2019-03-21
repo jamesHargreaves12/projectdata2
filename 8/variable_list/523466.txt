@@ -1,0 +1,7 @@
+n
+i
+*********
+range
+int
+square root
+*********

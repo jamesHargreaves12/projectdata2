@@ -1,1 +1,1 @@
-the variable number list is a list of integers i comma j is equal to number list dot index of the i  th variable comma number list dot index j  th variable number list j in square brackets comma number list with i in square brackets equals number list of i in square brackets comma number list of j in square brackets
+variable number list j in square brackets comma number list with i in square brackets equals number list of i in square brackets comma number list of j in square brackets

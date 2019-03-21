@@ -4,4 +4,4 @@ for i = 1; i < num_list.length(); i ++; {
 		return false;
 	}
 }
-return true
+return true;

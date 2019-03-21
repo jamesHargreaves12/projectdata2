@@ -1,0 +1,6 @@
+if length(list) <= 1{
+	return list;
+}
+middle = length(list)/2;
+mergesort(list[0:middle-1]);
+merge(list[middle:length(list)-1]);

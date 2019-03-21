@@ -1,0 +1,8 @@
+string
+high
+low
+*********
+length
+pop
+palindrome
+*********

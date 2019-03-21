@@ -1,0 +1,7 @@
+shopping list
+item cost map
+costs
+item
+cost
+*********
+*********

@@ -1,0 +1,5 @@
+sum = 0;
+for item in shopping_list {
+	sum += item_cost_map[item];
+}
+return sum;

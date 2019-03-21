@@ -1,0 +1,1 @@
+variable VARIABLE_0 VARIABLE_1 in square brackets comma VARIABLE_0 with VARIABLE_2 in square brackets equals VARIABLE_0 of VARIABLE_2 in square brackets comma VARIABLE_0 of VARIABLE_1 in square brackets

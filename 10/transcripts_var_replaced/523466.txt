@@ -1,0 +1,1 @@
+returns VARIABLE_0 plus FUNCTION_CALL_2 VARIABLE_0 minus NUMBER if VARIABLE_0 is greater than NUMBER else NUMBER

@@ -1,1 +1,1 @@
-accumulator is 0 for each item in shopping list acculator increment by item cost map of item end of for loop return accumulator
+accumulator is 0 for each item in shopping list accumulator increment by item cost map of item end of for loop return accumulator

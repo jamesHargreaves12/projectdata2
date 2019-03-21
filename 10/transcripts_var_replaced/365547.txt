@@ -1,0 +1,1 @@
+we return VARIABLE_0 times VARIABLE_0 plus NUMBER divided by NUMBER

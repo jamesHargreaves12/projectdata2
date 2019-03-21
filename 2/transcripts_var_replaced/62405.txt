@@ -1,0 +1,1 @@
+set VARIABLE_0 equal to the FUNCTION_CALL_3 on the VARIABLE_1 FUNCTION_CALL_4 the FUNCTION_CALL_3 from the VARIABLE_1 end loop output VARIABLE_0

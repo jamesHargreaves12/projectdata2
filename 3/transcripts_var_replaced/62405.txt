@@ -1,0 +1,1 @@
+set VARIABLE_1 equal to NUMBER for VARIABLE_2 equals NUMBER to NUMBER increase VARIABLE_1 by VARIABLE_0 at VARIABLE_2 end loop output VARIABLE_1

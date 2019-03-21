@@ -1,0 +1,7 @@
+output_list = [];
+for numb in number_list{
+	if numb > threshold{
+		output_lust += numb;
+	}
+}
+return output_list;

@@ -1,0 +1,6 @@
+string
+i
+*********
+range
+length
+*********

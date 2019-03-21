@@ -1,0 +1,7 @@
+number_result = [];
+for item in nubmer_list{
+	if item > threshold{
+		result.add(item);
+	}
+}
+return result;

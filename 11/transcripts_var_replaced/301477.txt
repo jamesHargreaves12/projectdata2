@@ -1,0 +1,1 @@
+if FUNCTION_CALL_4 of VARIABLE_0 is less than or equal to NUMBER return true end if variable VARIABLE_2 equals FUNCTION_CALL_5 VARIABLE_0 first variable VARIABLE_1 it was FUNCTION_CALL_5 VARIABLE_0 last if VARIABLE_2 equals VARIABLE_1 then return calling self on the VARIABLE_0 else return false end if

@@ -1,0 +1,8 @@
+shopping list
+total
+count
+cost
+*********
+range
+length
+*********

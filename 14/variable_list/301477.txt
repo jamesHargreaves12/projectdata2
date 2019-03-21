@@ -1,0 +1,9 @@
+midpoint
+p
+r
+*********
+length
+round down
+merge sort
+sort
+*********

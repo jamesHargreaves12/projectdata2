@@ -1,0 +1,1 @@
+the variable VARIABLE_3 is equal to the VARIABLE_0 the variable VARIABLE_1 is equal to the variable VARIABLE_3 multiplied by NUMBER the variable VARIABLE_2 is equal to the variable VARIABLE_1 multiplied by NUMBER

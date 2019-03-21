@@ -1,0 +1,1 @@
+return NUMBER if VARIABLE_0 equals NUMBER or VARIABLE_0 equals NUMBER else VARIABLE_0 multiplied by FUNCTION_CALL_2 VARIABLE_0 minus NUMBER

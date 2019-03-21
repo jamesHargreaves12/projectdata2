@@ -1,0 +1,1 @@
+variable VARIABLE_2 equals empty list VARIABLE_3 equals NUMBER to FUNCTION_CALL_6 of VARIABLE_0 VARIABLE_2 VARIABLE_3 becomes equal to VARIABLE_0 VARIABLE_3 times VARIABLE_1 end for return VARIABLE_2

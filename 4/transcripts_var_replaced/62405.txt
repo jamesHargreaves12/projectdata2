@@ -1,0 +1,1 @@
+set VARIABLE_3 equal to NUMBER for each VARIABLE_2 in VARIABLE_0 increment VARIABLE_3 by VARIABLE_1 of VARIABLE_2 end for output VARIABLE_3

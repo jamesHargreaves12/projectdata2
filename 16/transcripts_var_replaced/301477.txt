@@ -1,0 +1,1 @@
+variable VARIABLE_2 equals empty list for VARIABLE_3 equals NUMBER to the FUNCTION_CALL_6 of VARIABLE_0 if VARIABLE_0 VARIABLE_3 is greater than VARIABLE_1 then FUNCTION_CALL_7 onto VARIABLE_2 VARIABLE_0 VARIABLE_3 end if end for return VARIABLE_2

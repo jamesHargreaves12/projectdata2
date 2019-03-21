@@ -1,0 +1,7 @@
+result_list = [];
+for values in input_list{
+	if number > threshold{
+		result_list += number;
+	}
+}
+return result_list;

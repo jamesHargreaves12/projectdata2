@@ -1,0 +1,13 @@
+results = new_list(number_list.length());
+for k =0; k < number_list.length(); k ++; {
+	if k != i and k != j{
+		results[k] = number_list[k];
+	}
+	else_if k == i{
+		result[k] = number_list[j];
+	}
+	else{
+		results[k] = number_list[i];
+	}
+}
+return result;

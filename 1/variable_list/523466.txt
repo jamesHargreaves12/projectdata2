@@ -1,0 +1,6 @@
+price of the meal pre tax without tip
+meal price plus tax
+final meal price
+meal price
+*********
+*********

@@ -1,0 +1,6 @@
+for i in range(0,length(string)/2){
+	if string[i] != string[length(string)-1-i] {
+		return false;
+	}
+}
+return true;

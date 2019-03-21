@@ -1,0 +1,6 @@
+number list
+temp
+i
+j
+*********
+*********

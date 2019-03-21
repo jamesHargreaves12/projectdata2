@@ -1,0 +1,1 @@
+set VARIABLE_2 to NUMBER for each VARIABLE_3 in the VARIABLE_0 add to VARIABLE_4 VARIABLE_1 of VARIABLE_3 end the for loop return VARIABLE_4

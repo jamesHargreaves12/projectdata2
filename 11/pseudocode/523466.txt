@@ -1,0 +1,7 @@
+reverse = reverse(s);
+if s == reversed{
+	return true;
+}
+if s != reversed{
+	return false;
+}

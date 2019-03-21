@@ -1,0 +1,1 @@
+for VARIABLE_1 is equal to NUMBER VARIABLE_1 is less than half of VARIABLE_0 FUNCTION_CALL_3 increment VARIABLE_1 if FUNCTION_CALL_4 position VARIABLE_1 is not equal to FUNCTION_CALL_4 position VARIABLE_0 FUNCTION_CALL_3 minus VARIABLE_1 return false end of for loop return true

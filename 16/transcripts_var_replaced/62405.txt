@@ -1,0 +1,1 @@
+create list VARIABLE_0 for each VARIABLE_4 in VARIABLE_1 if VARIABLE_4 is greater than VARIABLE_3 add VARIABLE_4 to VARIABLE_0 end loop output VARIABLE_0

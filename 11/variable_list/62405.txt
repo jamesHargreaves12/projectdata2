@@ -1,0 +1,8 @@
+input string
+output
+start
+out
+end
+*********
+length
+*********

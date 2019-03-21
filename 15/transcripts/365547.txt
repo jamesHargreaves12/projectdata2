@@ -1,1 +1,1 @@
-we take a list of integers and we take an integer coefficient now for all integers in the first list we multiply that integer by the coefficient and stored it in the same place in the list and thats the end of the for loop and then we simply return the original list
+for all integers in the first list we multiply that integer by the coefficient and stored it in the same place in the list and thats the end of the for loop and then we simply return the original list

@@ -1,0 +1,21 @@
+c = array.length(length(a) + length(b));
+i = 0;
+j = 0;
+while i < length(a) or j < length(b){
+	if i == length(a){
+		c[i+j] = b[j];
+		j += 1;
+	}
+	else_if j == length(b){
+		c[i+j] = a[i];
+		i += 1;
+	}
+	else_if a[i] <= b[j]{
+		c[i+j] = a[i];
+		i += 1;
+	}
+	else{
+		c[i+j] = b[j];
+		j += 1;
+	}
+}

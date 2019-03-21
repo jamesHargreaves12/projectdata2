@@ -1,0 +1,14 @@
+to mid
+array
+right
+left
+mid
+i
+j
+k
+l
+*********
+length
+merge sort
+mege sort
+*********

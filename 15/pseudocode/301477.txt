@@ -1,0 +1,5 @@
+result = [];
+for count in range(1,length(number_list)){
+	result[count] = number_list[count]*coefficient;
+}
+return result;

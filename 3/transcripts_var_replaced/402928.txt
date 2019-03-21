@@ -1,0 +1,1 @@
+create an VARIABLE_1 variable and set it to NUMBER for VARIABLE_2 is equal to NUMBER VARIABLE_2 is less than VARIABLE_0 FUNCTION_CALL_4 increment VARIABLE_2 VARIABLE_1 is incremented by VARIABLE_0 of VARIABLE_2 end of for loop return VARIABLE_1

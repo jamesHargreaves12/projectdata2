@@ -1,0 +1,1 @@
+now we do a for loop for VARIABLE_0 is NUMBER to NUMBER if VARIABLE_0 is FUNCTION_CALL_3 by NUMBER and that is equal to NUMBER then we FUNCTION_CALL_4 STR end if statement if statement if its FUNCTION_CALL_3 by NUMBER we FUNCTION_CALL_4 STR and thats the end of that if statement and then we FUNCTION_CALL_4 a new line and thats the end of the for loop

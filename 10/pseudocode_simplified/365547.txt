@@ -1,0 +1,1 @@
+return VARIABLE_0 * ( VARIABLE_0 + NUMBER ) / NUMBER  

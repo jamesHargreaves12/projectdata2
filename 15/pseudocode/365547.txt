@@ -1,0 +1,4 @@
+for integers in first_list{
+	list[same_place] = integer*coefficent;
+}
+return original_list;
