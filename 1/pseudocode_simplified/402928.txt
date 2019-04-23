@@ -1,1 +1,1 @@
-return ( VARIABLE_0 * NUMBER ) * NUMBER  
+output VARIABLE_0 * NUMBER * NUMBER  
